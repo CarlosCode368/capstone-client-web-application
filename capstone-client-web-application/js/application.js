@@ -39,6 +39,7 @@ function loadHome()
 function editProfile()
 {
     profileService.loadProfile();
+
 }
 
 function saveProfile()
